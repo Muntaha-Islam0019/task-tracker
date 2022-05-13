@@ -7,7 +7,7 @@ import { Task } from '../Task';
   providedIn: 'root',
 })
 export class TaskService {
-  constructor() {}
+  constructor() { }
 
   getTasks(): Observable<Task[]> {
     const tasks = of(TASKS);
