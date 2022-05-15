@@ -21,7 +21,7 @@
     {
       "text": "Buy a Guitar",
       "day": "May 11th at 4:40pm",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     }
   ]
